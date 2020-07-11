@@ -1,0 +1,39 @@
+@keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  @font-face {
+    font-family: mplus;
+    src: url("../fonts/mplus-1p-regular.ttf");
+  }
+.header{
+    animation: 1s linear 0s 1 slideInFromLeft;
+    background-color: #042429;
+    height: auto;
+    color: white;
+    width: 35%;
+    min-height: 100%;
+    /* overflow: auto; */
+    position: absolute;
+}
+.menu-div{
+    padding: 30px;
+    margin-left: 10px;
+}
+
+.logo{
+    height: 300px;
+    width: 300px;
+    padding: 80px 50px;
+    margin-left: 23px;
+}
+.menu-items{
+    padding: 14px;
+    font-family: mplus;
+    text-decoration: none;
+    color: white;
+}
