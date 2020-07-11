@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.240ce319.chunk.css",
-    "main.js": "/static/js/main.0840ada7.chunk.js",
-    "main.js.map": "/static/js/main.0840ada7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.db27e864.js",
-    "runtime-main.js.map": "/static/js/runtime-main.db27e864.js.map",
-    "static/js/2.b9554678.chunk.js": "/static/js/2.b9554678.chunk.js",
-    "static/js/2.b9554678.chunk.js.map": "/static/js/2.b9554678.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7940a7a8a437e371ac8cdee4d04bad35.js": "/precache-manifest.7940a7a8a437e371ac8cdee4d04bad35.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.240ce319.chunk.css.map": "/static/css/main.240ce319.chunk.css.map",
-    "static/js/2.b9554678.chunk.js.LICENSE.txt": "/static/js/2.b9554678.chunk.js.LICENSE.txt",
-    "static/media/banner_1.jpg": "/static/media/banner_1.61cc8a99.jpg",
-    "static/media/banner_2.jpg": "/static/media/banner_2.4ab9785d.jpg",
-    "static/media/logo_transparent.png": "/static/media/logo_transparent.769ae333.png",
-    "static/media/Howitworks.scss": "/static/media/mplus-1p-medium.2f64ca46.ttf",
-    "static/media/Header.scss": "/static/media/mplus-1p-regular.16159c5f.ttf"
+    "main.css": "//mrunmayee-t.github.io/Shuttrbug/static/css/main.035cbeb1.chunk.css",
+    "main.js": "//mrunmayee-t.github.io/Shuttrbug/static/js/main.1eb4303c.chunk.js",
+    "main.js.map": "//mrunmayee-t.github.io/Shuttrbug/static/js/main.1eb4303c.chunk.js.map",
+    "runtime-main.js": "//mrunmayee-t.github.io/Shuttrbug/static/js/runtime-main.07ef62e0.js",
+    "runtime-main.js.map": "//mrunmayee-t.github.io/Shuttrbug/static/js/runtime-main.07ef62e0.js.map",
+    "static/js/2.9bd8462e.chunk.js": "//mrunmayee-t.github.io/Shuttrbug/static/js/2.9bd8462e.chunk.js",
+    "static/js/2.9bd8462e.chunk.js.map": "//mrunmayee-t.github.io/Shuttrbug/static/js/2.9bd8462e.chunk.js.map",
+    "index.html": "//mrunmayee-t.github.io/Shuttrbug/index.html",
+    "precache-manifest.b2f9dd6de071105a5c05c73062dbf55f.js": "//mrunmayee-t.github.io/Shuttrbug/precache-manifest.b2f9dd6de071105a5c05c73062dbf55f.js",
+    "service-worker.js": "//mrunmayee-t.github.io/Shuttrbug/service-worker.js",
+    "static/css/main.035cbeb1.chunk.css.map": "//mrunmayee-t.github.io/Shuttrbug/static/css/main.035cbeb1.chunk.css.map",
+    "static/js/2.9bd8462e.chunk.js.LICENSE.txt": "//mrunmayee-t.github.io/Shuttrbug/static/js/2.9bd8462e.chunk.js.LICENSE.txt",
+    "static/media/banner_1.jpg": "//mrunmayee-t.github.io/Shuttrbug/static/media/banner_1.61cc8a99.jpg",
+    "static/media/banner_2.jpg": "//mrunmayee-t.github.io/Shuttrbug/static/media/banner_2.4ab9785d.jpg",
+    "static/media/logo_transparent.png": "//mrunmayee-t.github.io/Shuttrbug/static/media/logo_transparent.769ae333.png",
+    "static/media/Howitworks.scss": "//mrunmayee-t.github.io/Shuttrbug/static/media/mplus-1p-medium.2f64ca46.ttf",
+    "static/media/Header.scss": "//mrunmayee-t.github.io/Shuttrbug/static/media/mplus-1p-regular.16159c5f.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.db27e864.js",
-    "static/js/2.b9554678.chunk.js",
-    "static/css/main.240ce319.chunk.css",
-    "static/js/main.0840ada7.chunk.js"
+    "static/js/runtime-main.07ef62e0.js",
+    "static/js/2.9bd8462e.chunk.js",
+    "static/css/main.035cbeb1.chunk.css",
+    "static/js/main.1eb4303c.chunk.js"
   ]
 }
