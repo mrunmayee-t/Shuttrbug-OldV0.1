@@ -1,0 +1,64 @@
+@keyframes slideInFromTop {
+    0% {
+      transform: translateY(-100%);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  @keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@font-face {
+    font-family: mplus;
+    src: url("../fonts/mplus-1p-medium.ttf");
+  }
+.banner-img{
+    width: 445px;
+    height: 500px;
+}
+
+.fade-in {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: linear;
+	animation-duration: 2s;
+}
+
+.content{
+    font-size: 14px;
+    padding: 10px;
+    text-align: center;
+}
+
+.content-div-aboutus{
+    padding: 7%;
+    width: 75%;
+    text-align: center;
+}
+
+.title-div{
+    margin-top: 10px;
+    text-align: center;
+}
+.title{
+    text-align: center;
+    font-size: 20px;
+    margin-right: 17%;
+    padding: 7%;
+    font-family: mplus;
+}
+.about-us-div{
+    animation: 1s linear 0s 1 slideInFromTop;
+    height: auto;
+    width: 35%;
+    margin-left: 35%;
+    position: absolute;
+    max-height: 100%;
+}
