@@ -20,8 +20,8 @@ var items = [{
 },
 {
     id: 2,
-    title: "Gallery",
-    path:"/Gallery",
+    title: "How It Works",
+    path:"/HowItWorks",
     component: {}
 },
 {

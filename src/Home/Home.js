@@ -1,14 +1,14 @@
 import React from 'react';
 // import Footer from './Footer/Footer';
-import Aboutus from '../Aboutus/Aboutus';
-import Howitworks from '../Hoitworks/HowItWorks';
+import BannerPageLeft from '../BannerPageLeft/BannerPageLeft';
+import BannerPageRight from '../BannerPageRight/BannerPageRight';
 import Header from '../Header/Header';
 
 class Home extends React.Component {
     render() {
         return (<div><Header />
-            <Aboutus />
-            <Howitworks />
+            <BannerPageLeft />
+            <BannerPageRight />
             </div>
         );
     }

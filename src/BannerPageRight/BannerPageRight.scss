@@ -19,6 +19,14 @@
     font-family: mplus;
     src: url("../fonts/mplus-1p-medium.ttf");
   }
+
+  .banner-img-right {
+    width: 444px;
+    height: 400px;
+    margin-top: -3.5%;
+    margin-left: -7.5%;
+    margin-bottom: -20%;
+  }
   .fade-in {
     opacity: 1;
     animation-name: fadeInOpacity;
@@ -47,6 +55,7 @@
   width: 445px;
   position: relative;
   float: right;
+  margin-top: -7%;
 }
 
 .content{
