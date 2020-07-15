@@ -23,7 +23,8 @@ class BannerPageLeft extends React.Component{
         return(
             <div className="about-us-div">
                 {/* <img src={banner1} className="banner-img" alt="about us" /> */}
-                <Carousel indicators="false">
+                <Carousel indicators={false}
+                navButtonsAlwaysVisible = {false}>
             {
                 items.map( item => <img src={item.url} className="banner-img" alt="image" key={item.id} /> )
             }

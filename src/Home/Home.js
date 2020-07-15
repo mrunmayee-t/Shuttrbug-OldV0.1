@@ -7,8 +7,8 @@ import Header from '../Header/Header';
 class Home extends React.Component {
     render() {
         return (<div><Header />
-            <BannerPageLeft />
-            <BannerPageRight />
+            {/* <BannerPageLeft />
+            <BannerPageRight /> */}
             </div>
         );
     }
