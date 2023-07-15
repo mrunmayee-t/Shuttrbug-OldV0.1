@@ -13,7 +13,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-material-ui-carousel": "^1.6.0",
-    "react-native": "^0.58.5",
+    "react-native": "^0.72.3",
     "react-native-cli": "^2.0.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
